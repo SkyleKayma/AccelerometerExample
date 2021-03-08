@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AccelerometerExample</string>
+
+    <!-- Main -->
+    <string name="main_value_of_x">Valeur de X: %f</string>
+    <string name="main_value_of_y">Valeur de Y: %f</string>
+    <string name="main_value_of_z">Valeur de Z: %f</string>
+    <string name="main_front_or_back">Avant ou arrière: %s</string>
+    <string name="main_front">Avant</string>
+    <string name="main_back">Arrière</string>
+    <string name="main_left_or_right">Gauche ou droite: %s</string>
+    <string name="main_left">Gauche</string>
+    <string name="main_right">Droite</string>
+
+</resources>
