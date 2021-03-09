@@ -2,7 +2,9 @@
 
 Projet exemple pour montrer comment écouter/ajouter/supprimer des éléments dans une base de données Firebase Realtime Database.
 
-Tuto de mise en place:
+Pour tester l'accéléromètre sur émulateur:
+
+<img src="captures/menu.png" height="400">
 
 Tourné vers la gauche:
 
